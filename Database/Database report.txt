@@ -1,0 +1,17 @@
+We are using schema 'language_learning_app' for  language learning application. The schema contains six tables, including:
+
+grammar_rules_telugu: This table stores grammar rules for the Telugu language. It includes fields for id, src_language, src_string, target_language, target_string, created_timestamp, and updated_timestamp.
+
+grammar_rules_swahili: This table stores grammar rules for the Swahili language. It includes fields for id, src_language, src_string, grammar_rule, and target_language.
+
+language_codes: This table stores language codes and their corresponding country names. It includes fields for id, country, language_code, created_timestamp, active_flag, and remarks.
+
+mcq_quiz: This table stores multiple-choice quiz questions. It includes fields for id, input, options, and correct_answer.
+
+mcq_quiz_report: This table stores reports of multiple-choice quiz answers. It includes fields for id, username, question, options, given_answer, correct_answer, answer_flag, created_timestamp, activity, activity_cycle_number, question_number, activity_completed_flag, source_language, and target_language.
+
+user_registration: This table stores user registration information. It includes fields for id, first_name, last_name, username, password, email, new_password, confirm_password, created_timestamp, updated_timestamp, and authenticated_flag.
+
+The tables use different auto-increment values, indicating that they were created at different times or by different scripts.
+
+Overall, the schema is designed to support language learning activities and user management. The grammar_rules_* tables likely store rules that are used to generate exercises or provide feedback to users. The mcq_quiz and mcq_quiz_report tables are used for multiple-choice quiz activities. The language_codes table might be used to populate language selection menus or other user interface elements. Finally, the user_registration table stores user account information, including authentication flags that might be used to control access to certain features or resources.

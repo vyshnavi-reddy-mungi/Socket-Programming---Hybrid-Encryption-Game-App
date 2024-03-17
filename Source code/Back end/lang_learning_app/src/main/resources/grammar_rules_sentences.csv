@@ -1,0 +1,188 @@
+﻿id,grammar_rule,english_sentence
+1,NEG+1p+PRES+kuweza,We are not able
+2,NEG+1s+PRES+kula,I do not eat
+3,2s+PRES+kuandika,You write
+4,NEG+2s+PRES+kuandika,You do not write
+5,1p+PRES+kujibu,We answer
+6,NEG+1p+PRES+kujibu,We do not answer
+7,1s+PAST+kula,I ate
+8,NEG+1s+PAST+kula,I did not eat
+9,2s+PAST+kuandika,You wrote
+10,NEG+2s+PAST+kuandika,You did not write
+11,1p+PAST+kujibu,We answered
+12,NEG+1p+PAST+kujibu,We did not answer
+13,1s+PERF+kula,I have eaten
+14,NEG+1s+PERF+kula,I have not eaten
+15,2s+PERF+kuandika,You have written
+16,NEG+2s+PERF+kuandika,You have not written
+17,1p+PERF+kujibu,We have answered
+18,NEG+1p+PERF+kujibu,We have not answered
+19,1s+FUT+kula,I will eat
+20,NEG+1s+FUT+kula,I will not eat
+21,2s+FUT+kuandika,You will write
+22,NEG+2s+FUT+kuandika,You will not write
+23,1p+FUT+kujibu,We will answer
+24,NEG+1p+FUT+kujibu,We will not answer
+25,NEG+3p+PRES+kufaa,They are not suitable
+26,1s+PAST+kufungua,I opened
+27,1s+PAST+kufunga,I closed
+28,NEG+1s+PERF+kuanza,I have not started
+29,1s+PERF+kuanza,I have started
+30,1s+PRES+kumaanisha,I mean
+31,2s+PRES+kusema,You say
+32,3p+PAST+kusema,They said
+33,2s+PAST+kusema,You said
+34,2s+PRES+kuongea,You speak
+35,NEG+1s+PRES+kuongea,I do not speak
+36,2s+PRES+kuelewa,You understand
+37,NEG+1s+PRES+kuelewa,I do not understand
+38,2s+PERF+kuelewa,You have understood
+39,1s+PAST+kuzungumza,I conversed
+40,1p+PRES+kuomba,We request
+41,2s+PRES+kusifia,You recommend
+42,1s+PAST+kusoma,I read
+43,1s+PRES+kuitwa,I am named
+44,3s+PRES+kuitwa,She is named
+45,1s+PRES+kutoka,I come from
+46,2s+PRES+kutoka,You come from
+47,1s+PERF+kutoka,I have come from
+48,3p+PERF+kuishi,They have lived
+49,1p+PRES+kuishi,We live
+50,NEG+1p+PRES+kuishi,We do not live
+51,1p+PRES+kukaa,We stay
+52,NEG+1p+PRES+kukaa,We do not stay
+53,NEG+1s+FUT+kufa,I will not die
+54,2s+PERF+kuzaliwa,You have been born
+55,1s+PERF+kuzaliwa,I have been born
+56,1s+PERF+kutoa,I have subtracted
+57,1p+FUT+kulipa,We will pay
+58,1s+FUT+kupata,I will get
+59,1s+PAST+kupata,I got
+60,2s+PERF+kuleta,You have brought
+61,2s+PAST+kuweka,You put
+62,1s+PAST+kupeleka,I took
+63,2s+PERF+kupokea,You have received
+64,1s+PRES+kuja,I come
+65,3s+PAST+kuja,She came
+66,2s+PRES+kuelekea,You go
+67,1p+PRES+kuondoka,We depart
+68,1p+FUT+kurudi,We will return
+69,1s+FUT+kurudi,I will return
+70,2s+PAST+kupitia,You visited
+71,2s+PRES+kufanya,You do
+72,1p+PAST+kufika,We arrived
+73,1s+PERF+kupotea,I have been lost
+74,NEG+1p+PERF+kupotea,We have not been lost
+75,1p+PERF+kufikia,We have arrived at
+76,1s+PAST+kukimbia,I ran
+77,2s+PRES+kuuza,You sell
+78,1s+PRES+kuosha,I wash
+79,1s+PRES+kutengeneza,I make
+80,1s+PAST+kuanda,I prepared
+81,2s+PRES+kuchanganya,You mix
+82,1p+PRES+kuchanganya,We mix
+83,1s+PRES+kuchemsha,I boil
+84,1p+FUT+kurekebisha,We will repair
+85,1s+PAST+kupoteza,I lost
+86,1s+PRES+kutafuta,I look for
+87,NEG+1s+PRES+kujua,I do not know
+88,2s+PRES+kujua,You know
+89,1s+PRES+kukumbuka,I remember
+90,1s+PAST+kukumbuka,I remembered
+91,1s+PERF+kusahau,I have forgotten
+92,NEG+1s+PRES+kusahau,I do not forget
+93,1s+FUT+kuuliza,I will ask
+94,1p+PRES+kujifunza,We learn
+95,1p+PERF+kujifunza,We have learned
+96,2s+PERF+kukosea,You have been wrong
+97,1s+PERF+kukosea,I have been wrong
+98,2s+PRES+kufikiri,You think
+99,2s+PRES+kupenda,You love
+100,NEG+1s+PRES+kupenda,I do not love
+101,2s+PERF+kushiba,You have been full
+102,1s+PERF+kushiba,I have been full
+103,2s+PERF+kuchoka,You have tired
+104,1s+PRES+kupendelea,I prefer
+105,1s+PRES+kuogopa,I fear
+106,3p+PRES+kuogopa,They fear
+107,1s+PERF+kuzoea,I have been used to
+108,NEG+1s+PERF+kuzoea,I have not been used to
+109,2s+PERF+kuzoea,You have been used to
+110,1s+PRES+kuchukia,I hate
+111,2s+PRES+kusikiliza,You listen
+112,NEG+1s+PAST+kusikiliza,I did not listen
+113,2s+PRES+kusikia,You hear
+114,1s+PAST+kusikia,I heard
+115,1s+PAST+kusubiri,I waited
+116,2s+PERF+kuamka,You have awakened
+117,3s+PERF+kulala,She has slept
+118,1p+PRES+kuagiza,We order
+119,1s+PRES+kutumaini,I hope
+120,3p+PRES+kutumaini,They hope
+121,2s+PRES+kutegemea,You plan
+122,1p+FUT+kuchelewa,We will be late
+123,1s+PRES+kutazama,I watch
+124,1s+PAST+kuwaza,I thought
+125,1s+PRES+kujaribu,I try
+126,1p+PRES+kugombana,We argue
+127,3p+PRES+kugombana,They argue
+128,1p+FUT+kucheza,We will play
+129,2s+PRES+kukubali,You agree
+130,3s+PRES+kukubali,She agrees
+131,NEG+1s+PRES+kukubali,I do not agree
+132,1p+FUT+kuendelea,We will continue
+133,1s+PERF+kuvaa,I have worn
+134,3p+PERF+kuvaa,They have worn
+135,2s+PRES+kusali,You pray
+136,NEG+2s+PRES+kuhitaji,You do not need
+137,1s+PAST+kutambua,I realized
+138,1p+PAST+kuamua,We decided
+139,3s+PAST+kuamua,She decided
+140,1s+PAST+kuamua,I decided
+141,1p+FUT+kushiriki,We will share
+142,2s+PRES+kucheka,You laugh
+143,2p+PRES+kucheza,Ye play
+144,2s+PERF+kufurahi,You have been happy
+145,1p+PAST+kufurahi,We were happy
+146,2s+PERF+kukasirika,You have been angry
+147,1s+PRES+kuumwa,I am sick
+148,3s+PRES+kuumwa,She is sick
+149,3s+PAST+kumaliza,She finished
+150,2s+PERF+kumaliza,You have finished
+151,1p+FUT+kumaliza,We will finish
+152,2s+PRES+kufanana,You resemble
+153,2s+PRES+kujitahidi,You improve
+154,2s+PERF+kubadilishana,You have exchanged
+155,1s+PAST+kuua,I killed
+156,3p+PRES+kuendesha,They drive
+157,3p+PRES+kupanga,They plan
+158,1p+PRES+kupanga,We plan
+159,2s+PRES+kuweza,You are able
+160,3p+PRES+kujenga,They build
+161,1s+PAST+kushtuka,I was shocked
+162,3s+PRES+kupendeza,She looks great
+163,2s+PERF+kupendeza,You have looked great
+164,3s+PAST+kukulia,She grew up
+165,3p+FUT+kutembelea,They will visit
+166,1s+PRES+kutembelea,I visit
+167,3p+FUT+kufunga,They will close
+168,3s+PRES+kulia,She cries
+169,3p+FUT+kuiba,They will steal
+170,NEG+1s+PRES+kuamini,I do not believe
+171,1s+PRES+kustahili,I am required
+172,1s+FUT+kufikiria,I will think about
+173,3s+PERF+kunenepa,She has put on weight
+174,1s+PERF+kukonda,I have lost weight
+175,1s+PAST+kuacha,I left
+176,1s+PRES+kukaribia,I approach
+177,1p+PRES+kukaribia,We approach
+178,3s+PRES+kukaribia,She approaches
+179,1s+PAST+kuanguka,I fell
+180,NEG+3p+PRES+kuruhusu,They do not allow
+181,1p+PAST+kukodishwa,We rented
+182,2s+PRES+kuitwa,You are named
+183,3p+PAST+kufariki,They died
+184,2s+PRES+kujali,You care
+185,3s+PRES+kusomea,She studies
+186,3p+PRES+kusomea,They study
+187,1s+PRES+kutamani,I wish

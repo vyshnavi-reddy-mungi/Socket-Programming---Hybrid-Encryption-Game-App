@@ -1,0 +1,171 @@
+leave-left,leave,leave,left
+order-ordered,order,order,ordered
+tell-told,tell,tell,told
+believe-believed,believe,believe,believed
+awaken-awakened,awaken,awaken,awakened
+decide-decided,decide,decide,decided
+prepare-prepared,prepare,prepare,prepared
+write-wrote,write,write,written
+look-looked,look,look,looked
+fall-fell,fall,fall,fallen
+start-started,start,start,started
+exchange-exchanged,exchange,exchange,exchanged
+carry-carried,carry,carry,carried
+disagree-disagreed,disagree,disagree,disagreed
+choose-chose,choose,choose,chosen
+mix-mixed,mix,mix,mixed
+laugh-laughed,laugh,laugh,laughed
+be late-was late,am late,be late,late
+boil-boiled,boil,boil,boiled
+play-played,play,play,played
+tire-tired,tire,tire,tired
+hate-hated,hate,hate,hated
+take-took,take,take,taken
+go-went,go,go,gone
+understand-understood,understand,understand,understood
+explain-explained,explain,explain,explained
+continue-continued,continue,continue,continued
+drive-drove,drive,drive,driven
+die-died,die,die,died
+be suitable-was suitable,is suitable,be suitable,suitable
+resemble-resembled,resemble,resemble,resembled
+happen-happened,happen,happen,happened
+do-did,do,do,done
+die-died,die,die,died
+arrive-arrived,arrive,arrive,arrived
+arrive at-arrived at,arrives at,arrive at,arrived at
+think-thought,think,think,thought
+think about-thought about,thinks about,think about,thought about
+close-closed,close,close,closed
+open-opened,open,open,opened
+teach-taught,teach,teach,taught
+be happy-was happy,am happy,be happy,happy
+share-shared,share,share,shared
+argue-argued,argue,argue,argued
+touch-touched,touch,touch,touched
+confirm-confirmed,confirm,confirm,confirmed
+feel-felt,feel,feel,felt
+need-needed,need,need,needed
+steal-stole,steal,steal,stolen
+sing-sang,sing,sing,sung
+enter-entered,enter,enter,entered
+end-ended,end,end,ended
+live-lived,live,live,lived
+be named-was named,am named,be named,named
+come-came,come,come,come
+care-cared,care,care,cared
+try-tried,try,try,tried
+build-built,build,build,built
+answer-answered,answer,answer,answered
+learn-learned,learn,learn,learned
+improve-improved,improve,improve,improved
+know-knew,know,know,known
+stay-stayed,stay,stay,stayed
+fry-fried,fry,fry,fried
+approach-approached,approach,approach,approached
+be angry-was angry,am angry,be angry,angry
+cut-cut,cut,cut,cut
+run-ran,run,run,run
+kiss-kissed,kiss,kiss,kissed
+rent-rented,rent,rent,rented
+lose weight-lost weight,lose weight,lose weight,lost weight
+be wrong-was wrong,am wrong,be wrong,wrong
+agree-agreed,agree,agree,agreed
+grow up-grew up,grow up,grow up,grown up
+remember-remembered,remember,remember,remembered
+remind-reminded,remind,remind,reminded
+eat-ate,eat,eat,eaten
+sleep-slept,sleep,sleep,slept
+bring-brought,bring,bring,brought
+cry-cried,cry,cry,cried
+pay-paid,pay,pay,paid
+mean-meant,mean,mean,meant
+finish-finished,finish,finish,finished
+put on weight-put on weight,put on weight,put on weight,put on weight
+buy-bought,buy,buy,bought
+drink-drank,drink,drink,drunk
+swim-swam,swim,swim,swum
+fear-feared,fear,fear,feared
+request-requested,request,request,requested
+see-saw,see,see,seen
+depart-departed,depart,depart,departed
+resemble-resembled,resemble,resemble,resembled
+speak-spoke,speak,speak,spoken
+add-added,add,add,added
+taste-tasted,taste,taste,tasted
+show-showed,show,show,shown
+wash-washed,wash,wash,washed
+give-gave,give,give,given
+plan-planned,plan,plan,planned
+get-got,get,get,got
+take-took,take,take,taken
+love-loved,love,love,loved
+prefer-preferred,prefer,prefer,preferred
+look great-looked great,look great,look great,looked great
+cook-cooked,cook,cook,cooked
+turn-turned,turn,turn,turned
+pass-passed,pass,pass,passed
+visit-visited,visit,visit,visited
+receive-received,receive,receive,received
+be lost-was lost,lost,be lost,be lost,lost
+lose-lost,lose,lose,lost
+rest-rested,rest,rest,rested
+reduce-reduced,reduce,reduce,reduced
+repair-repaired,repair,repair,repaired
+report-reported,report,report,reported
+return-returned,return,return,returned
+allow-allowed,allow,allow,allowed
+jump-jumped,jump,jump,jumped
+clean-cleaned,clean,clean,cleaned
+forget-forgot,forget,forget,forgotten
+help-helped,help,help,helped
+pray-prayed,pray,pray,prayed
+say-said,says,say,said
+be full-was full,is full,be full,full
+share-shared,share,share,shared
+be shocked-was shocked,is shocked,be shocked,shocked
+recommend-recommended,recommend,recommend,recommended
+hear-heard,hear,hear,heard
+listen-listened,listen,listen,listened
+stop-stopped,stop,stop,stopped
+read-read,read,read,read
+study-studied,studies,study,studied
+be required-was required,is required,be required,required
+relax-relaxed,relax,relax,relaxed
+wait-waited,wait,wait,waited
+worry-worried,worry,worry,worried
+look for-looked for,looks for,look for,looked for
+want-wanted,want,want,wanted
+wish-wished,wish,wish,wished
+realize-realized,realize,realize,realized
+expect-expected,expect,expect,expected
+watch-watched,watch,watch,watched
+plan-planned,plan,plan,planned
+walk-walked,walk,walk,walked
+visit-visited,visit,visit,visited
+make-made,makes,make,made
+subtract-subtracted,subtract,subtract,subtracted
+come from-came from,come from,come from,come from
+suffice-sufficed,suffice,suffice,sufficed
+send-sent,send,send,sent
+hope-hoped,hope,hope,hoped
+use-used,use,use,used
+kill-killed,kill,kill,killed
+ask-asked,ask,ask,asked
+bite-bit,bite,bite,bitten
+be sick-was sick,is sick,be sick,sick
+sell-sold,sell,sell,sold
+wear-wore,wear,wear,worn
+cross-crossed,cross,cross,crossed
+break-broke,break,break,broken
+communicate-communicated,communicate,communicate,communicated
+turn on-turned on,turn on,turn on,turned on
+think-thought,think,think,thought
+put-put,put,put,put
+be able-was able,am able,be able,able
+be born-was born,am born,be born,born
+turn off-turned off,turn off,turn off,turned off
+be used to-was used to,am used to,be used to,used to
+converse-conversed,converse,converse,conversed
+go-went,go,go,gone
+finish-finished,finish,finish,finished

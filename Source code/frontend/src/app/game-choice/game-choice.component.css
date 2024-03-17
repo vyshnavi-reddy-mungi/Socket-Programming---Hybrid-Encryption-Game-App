@@ -1,0 +1,42 @@
+/* Style the radio buttons */
+.form-check-input[type="radio"] {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    margin-left: -20px;
+  }
+  
+  /* Style the radio button labels */
+  .form-check-label {
+    display: inline-block;
+    position: relative;
+    padding-left: 25px;
+    margin-bottom: 0;
+    cursor: pointer;
+  }
+  
+  /* Create a custom radio button */
+  .form-check-label:before {
+    content: "";
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 17px;
+    height: 17px;
+    border-radius: 50%;
+    background-color: #fff;
+    border: 1px solid #ccc;
+  }
+  
+  /* Style the radio button when checked */
+  .form-check-input[type="radio"]:checked + .form-check-label:before {
+    content: "\2022";
+    font-size: 1.25em;
+    line-height: 0.8;
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  

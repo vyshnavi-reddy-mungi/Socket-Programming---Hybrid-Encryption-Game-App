@@ -1,0 +1,34 @@
+1s+PERF+eat
+1s+PERF+start
+1s+PERF+come from
+1s+PERF+be born
+1s+PERF+subtract
+1s+PERF+be lost
+1s+PERF+forget
+1s+PERF+be wrong
+1s+PERF+be full
+1s+PERF+be used to
+1s+PERF+wear
+1s+PERF+lose weight
+2s+PERF+write
+2s+PERF+understand
+2s+PERF+be born
+2s+PERF+bring
+2s+PERF+receive
+2s+PERF+be wrong
+2s+PERF+be full
+2s+PERF+tire
+2s+PERF+be used to
+2s+PERF+awaken
+2s+PERF+be happy
+2s+PERF+be angry
+2s+PERF+finish
+2s+PERF+exchange
+2s+PERF+look great
+3s+PERF+sleep
+3s+PERF+put on weight
+1p+PERF+answer
+1p+PERF+arrive at
+1p+PERF+learn
+3p+PERF+live
+3p+PERF+wear

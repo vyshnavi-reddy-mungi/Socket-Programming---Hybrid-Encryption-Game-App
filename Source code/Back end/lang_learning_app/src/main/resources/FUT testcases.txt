@@ -1,0 +1,19 @@
+1s+FUT+eat
+1s+FUT+get
+1s+FUT+return
+1s+FUT+ask
+1s+FUT+think about
+2s+FUT+write
+1p+FUT+answer
+1p+FUT+pay
+1p+FUT+return
+1p+FUT+repair
+1p+FUT+be late
+1p+FUT+play
+1p+FUT+continue
+1p+FUT+share
+1p+FUT+share
+1p+FUT+finish
+3p+FUT+visit
+3p+FUT+close
+3p+FUT+steal

@@ -1,0 +1,36 @@
+1s+PAST+eat
+1s+PAST+open
+1s+PAST+close
+1s+PAST+converse
+1s+PAST+read
+1s+PAST+get
+1s+PAST+take
+1s+PAST+run
+1s+PAST+prepare
+1s+PAST+lose
+1s+PAST+remember
+1s+PAST+think
+1s+PAST+hear
+1s+PAST+wait
+1s+PAST+think
+1s+PAST+realize
+1s+PAST+decide
+1s+PAST+kill
+1s+PAST+be shocked
+1s+PAST+leave
+1s+PAST+fall
+2s+PAST+write
+2s+PAST+say
+2s+PAST+put
+2s+PAST+visit
+3s+PAST+come
+3s+PAST+decide
+3s+PAST+finish
+3s+PAST+grow up
+1p+PAST+answer
+1p+PAST+arrive
+1p+PAST+be happy
+1p+PAST+rent
+1p+PAST+decide
+3p+PAST+say
+3p+PAST+die

@@ -1,0 +1,171 @@
+leave-leaves
+order-orders
+tell-tells
+believe-believes
+awaken-awakens
+decide-decides
+prepare-prepares
+write-writes
+look-looks
+fall-falls
+start-starts
+exchange-exchanges
+carry-carries
+disagree-disagrees
+choose-chooses
+mix-mixes
+laugh-laughs
+be late-is late
+boil-boils
+play-plays
+tire-tires
+hate-hates
+take-takes
+go-goes
+understand-understands
+explain-explains
+continue-continues
+drive-drives
+die-dies
+be suitable-is suitable
+resemble-resembles
+happen-happens
+do-does
+die-dies
+arrive-arrives
+arrive at-arrives at
+think-thinks
+think about-thinks about
+close-closes
+open-opens
+teach-teaches
+be happy-is happy
+share-shares
+argue-argues
+touch-touches
+confirm-confirms
+feel-feels
+need-needs
+steal-steals
+sing-sings
+enter-enters
+end-ends
+live-lives
+be named-is named
+come-comes
+care-cares
+try-tries
+build-builds
+answer-answers
+learn-learns
+improve-improves
+know-knows
+stay-stays
+fry-fries
+approach-approaches
+be angry-is angry
+cut-cuts
+run-runs
+kiss-kisses
+rent-rents
+lose weight-loses weight
+be wrong-is wrong
+agree-agrees
+grow up-grows up
+remember-remembers
+remind-reminds
+eat-eats
+sleep-sleeps
+bring-brings
+cry-cries
+pay-pays
+mean-means
+finish-finishes
+put on weight-puts on weight
+buy-buys
+drink-drinks
+swim-swims
+fear-fears
+request-requests
+see-sees
+depart-departs
+resemble-resembles
+speak-speaks
+add-adds
+taste-tastes
+show-shows
+wash-washes
+give-gives
+plan-plans
+get-gets
+take-takes
+love-loves
+prefer-prefers
+look great-looks great
+cook-cooks
+turn-turns
+pass-passes
+visit-visits
+receive-receives
+be lost-is lost
+lose-loses
+rest-rests
+reduce-reduces
+repair-repairs
+report-reports
+return-returns
+allow-allows
+jump-jumps
+clean-cleans
+forget-forgets
+help-helps
+pray-prays
+say-says
+be full-is full
+share-shares
+be shocked-is shocked
+recommend-recommends
+hear-hears
+listen-listens
+stop-stops
+read-reads
+study-studies
+be required-is required
+relax-relaxes
+wait-waits
+worry-worries
+look for-looks for
+want-wants
+wish-wishes
+realize-realizes
+expect-expects
+watch-watches
+plan-plans
+walk-walks
+visit-visits
+make-makes
+subtract-subtracts
+come from-comes from
+suffice-suffices
+send-sends
+hope-hopes
+use-uses
+kill-kills
+ask-asks
+bite-bites
+be sick-is sick
+sell-sells
+wear-wears
+cross-crosses
+break-breaks
+communicate-communicates
+turn on-turns on
+think-thinks
+put-puts
+be able-is able
+be born-is born
+turn off-turns off
+be used to-is used to
+converse-converses
+go-goes
+finish-finishes

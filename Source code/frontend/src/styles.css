@@ -1,0 +1,403 @@
+/* You can add global styles to this file, and also import other style files */
+header {
+	background-color: #007bff;
+	color: #fff;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	height: 80px;
+	padding: 0 20px;
+}
+.logo {
+	width: 50px;
+	height: 20px;
+	background-color: #fff;
+}
+.login {
+	cursor: pointer;
+}
+.container {
+	background-color: #f8f8f8;
+	margin: 50px auto;
+	padding: 20px;
+	text-align: center;
+	border-radius: 5px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+h2 {
+	margin-top: 0;
+}
+form {
+	display: flex;
+	flex-direction: column;
+}
+label {
+	display: block;
+	margin-bottom: 5px;
+	text-align: left;
+}
+input {
+	padding: 10px;
+	margin-bottom: 15px;
+	border-radius: 5px;
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+.info {
+	cursor: help;
+	display: inline-block;
+	width: 16px;
+	height: 16px;
+	margin-left: 5px;
+	border-radius: 50%;
+	background-color: #f8f8f8;
+	color: #007bff;
+	font-weight: bold;
+
+}header {
+    background-color: blue;
+    color: white;
+    display: flex;
+    align-items: center;
+    padding: 25px;
+  }
+  
+.header img {
+    width: 50px;
+    height: 20px;
+  }
+  
+  .container {
+    background-color: cream;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+  }
+  
+  .form-group {
+    margin-bottom: 10px;
+  }
+  
+  .label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .password-input {
+    position: relative;
+  }
+  
+  .password-input input {
+    padding-right: 30px;
+  }
+  
+  .password-input .fa-info-circle {
+    position: absolute;
+    top: 50%;
+    right: 5px;
+    transform: translateY(-50%);
+    color: gray;
+    cursor: pointer;
+  }
+  .header {
+    background-color: #007bff;
+	color: #fff;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	height: 80px;
+	padding: 0 20px;
+  }
+  * {
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: #f6f6f6;
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: #007bff;
+    color: #ecd2d2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+  }
+  
+  .logo img {
+    width: 50px;
+    height: 20px;
+  }
+  
+  .container {
+    margin: 20px auto;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .container h2 {
+    margin-top: 0;
+  }
+  
+  .container form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .container label {
+    margin-bottom: 5px;
+  }
+  
+  .container input[type="text"],
+  .container input[type="password"] {
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-size: 16px;
+  }
+  
+  .container .show-hide-btn {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    border: none;
+    background: none;
+    color: #007bff;
+    cursor: pointer;
+  }
+  
+  .container .password-validation {
+    color: rgb(228, 215, 215);
+    font-size: 14px;
+  }
+  
+  .container button[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .container button[type="submit"]:disabled {
+    background-color: #e7dfea;
+    color: #666;
+    cursor: not-allowed;
+  }
+  body {
+    margin: 0;
+    padding: 0;
+    background-color: #F5F5F5;
+ 
+  }
+  
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 20px;
+    background-color: blue;
+    padding: 25px;
+  }
+  
+  .header-menu {
+    display: flex;
+    align-items: center;
+  }
+  
+  .header-menu h1 {
+    margin: 0 20px 0 0;
+    color: white;
+  }
+  
+  .header-menu input {
+    border: none;
+    border-radius: 20px;
+    padding: 5px 10px;
+    background-color: white;
+  }
+  
+  .header-user {
+    color: white;
+  }
+  
+  .card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    margin: 20px;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+    color: white !important;
+    cursor: pointer;
+    font-size: 2em;
+  }
+  
+  .light-blue {
+    background-color: #87CEFA;
+  }
+  
+  .light-red {
+    background-color: #FF6961;
+  }
+  
+  .light-purple {
+    background-color: #B19CD9;
+  }
+  
+  .content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  
+  header {
+    background-color: lightblue;
+    height: 20px;
+  }
+  
+  .header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+    
+  }
+  
+  .logo img {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .user-profile {
+    display: flex;
+    align-items: center;
+  }
+  
+  .username {
+    margin-right: 10px;
+  }
+  
+  .word-generator {
+    max-width: 960px;
+    margin: 20px auto;
+  }
+  
+  .word-generator label {
+    margin-right: 10px;
+  }
+  
+  .word-generator input {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-right: 10px;
+  }
+  
+  body {
+    background-color: #f2f2f2;
+  }
+
+  #header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 20px;
+    padding: 5px;
+  }
+
+  #header img {
+    height: 30px;
+  }
+
+  #header .profile {
+    font-weight: bold;
+    margin-right: 10px;
+  }
+
+  #body {
+    margin: 20px;
+    background-color: white;
+  }
+
+  #question {
+    margin-bottom: 20px;
+  }
+
+  #image {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .choice {
+    display: block;
+    margin-bottom: 10px;
+  }
+
+  .choice input[type="radio"] {
+    margin-right: 10px;
+  }
+  
+
+  .logo-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+}
+
+.logo-text {
+  color: #FFFFFF;
+  font-size: 36px;
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.eagle-symbol {
+  width: 40px;
+  height: 40px;
+  background-color: #FFFFFF;
+  border-radius: 50%;
+  transform: rotate(-45deg) skew(-15deg);
+  margin-right: 10px;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+}
+
+.logo-text {
+  color: #FFFFFF;
+  font-size: 36px;
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.eagle-symbol {
+  width: 40px;
+  height: 40px;
+  background-color: #FFFFFF;
+  border-radius: 50%;
+  transform: rotate(-45deg) skew(-15deg);
+  margin-right: 10px;
+}
+body {
+  background-image: url('src\assets\signup_page_background.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}

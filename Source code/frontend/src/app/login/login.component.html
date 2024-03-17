@@ -1,0 +1,18 @@
+<div class="container loginbackground">
+    <h2>Sign In</h2>
+    <form (ngSubmit)="onSubmit()" #singInForm="ngForm">
+        <label for="username">User ID or Email</label>
+        <input type="text" id="username" name="username" [(ngModel)]="loginDto.username" required>
+        <label for="password">Password</label>
+            <input type="password" id="password" name="password" [(ngModel)]="loginDto.password" required
+            pattern="^(?=.*[A-Z])(?=.*\d)(?=.*[$@$!%*#?&])[A-Za-z\d$@$!%*#?&]{8,}$" #passwordEvent="ngModel">
+            <span class="password-validation" *ngIf="passwordEvent.invalid && (passwordEvent.dirty || passwordEvent.touched) && passwordEvent.errors?.['pattern']">
+                Password must contain at least 1 capital letter, 1 special character, 1 number, and minimum of 8 characters.</span>
+        <button type="submit" [disabled]="singInForm.invalid">Sign In</button>
+    </form>
+    <div class="info-text" *ngIf="errorMessage">
+        {{errorMessage}}
+    </div>
+    <a [routerLink]="['/sign-up']" style="display: block;">Sign up</a>
+    <a [routerLink]="['/forget-password']">Forget Password</a>
+</div>

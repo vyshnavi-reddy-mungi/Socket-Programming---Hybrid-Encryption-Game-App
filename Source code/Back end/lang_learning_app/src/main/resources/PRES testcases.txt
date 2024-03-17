@@ -1,0 +1,70 @@
+1s+PRES+mean
+1s+PRES+be named
+1s+PRES+come from
+1s+PRES+come
+1s+PRES+wash
+1s+PRES+make
+1s+PRES+boil
+1s+PRES+look for
+1s+PRES+remember
+1s+PRES+prefer
+1s+PRES+fear
+1s+PRES+hate
+1s+PRES+hope
+1s+PRES+watch
+1s+PRES+try
+1s+PRES+be sick
+1s+PRES+visit
+1s+PRES+be required
+1s+PRES+approach
+1s+PRES+wish
+2s+PRES+say
+2s+PRES+speak
+2s+PRES+understand
+2s+PRES+recommend
+2s+PRES+come from
+2s+PRES+go
+2s+PRES+do
+2s+PRES+sell
+2s+PRES+mix
+2s+PRES+know
+2s+PRES+think
+2s+PRES+love
+2s+PRES+listen
+2s+PRES+hear
+2s+PRES+agree
+2s+PRES+plan
+2s+PRES+pray
+2s+PRES+laugh
+2s+PRES+resemble
+2s+PRES+be able
+2s+PRES+be named
+2s+PRES+care
+2s+PRES+improve
+3s+PRES+be named
+3s+PRES+agree
+3s+PRES+be sick
+3s+PRES+look great
+3s+PRES+cry
+3s+PRES+approach
+3s+PRES+study
+1p+PRES+request
+1p+PRES+live
+1p+PRES+stay
+1p+PRES+depart
+1p+PRES+mix
+1p+PRES+learn
+1p+PRES+order
+1p+PRES+plan
+1p+PRES+plan
+1p+PRES+plan
+1p+PRES+approach
+1p+PRES+argue
+2p+PRES+play
+3p+PRES+fear
+3p+PRES+hope
+3p+PRES+argue
+3p+PRES+drive
+3p+PRES+plan
+3p+PRES+build
+3p+PRES+study

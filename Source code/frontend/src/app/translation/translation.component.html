@@ -1,0 +1,52 @@
+<form #translateForm="ngForm" (ngSubmit)="translateForm.valid && translate()">
+    <div class="container mt-5 body">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label for="source-language">Source Language:</label>
+                    <select class="form-control" id="source-language" name="sourceLanguage"
+                        #sourceLanguageEvent="ngModel" [(ngModel)]="translateReq.sourceLanguage" required>
+                        <option *ngFor="let language of languageCodes" [value]="language">{{language}}</option>
+                    </select>
+                    <div *ngIf="translateForm.submitted && sourceLanguageEvent.errors?.['required']"
+                        class="alert alert-danger">
+                        Source Language is required.
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="source-text">Source Text:</label>
+                    <textarea class="form-control" id="source-text" name="sourceText" #sourceTexteEvent="ngModel"
+                        [(ngModel)]="translateReq!.inputText" required></textarea>
+                    <div *ngIf="translateForm.submitted && sourceTexteEvent.errors?.['required']"
+                        class="alert alert-danger">
+                        Source Text is required.
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label for="target-language">Target Language:</label>
+                    <select class="form-control" id="target-language" name="targetLanguage"
+                        #targetLanguageEvent="ngModel" [(ngModel)]="translateReq.targetLanguage" required>
+                        <option *ngFor="let language of languageCodes" [value]="language">{{language}}</option>
+                    </select>
+                    <div *ngIf="translateForm.submitted && targetLanguageEvent.errors?.['required']"
+                        class="alert alert-danger">
+                        Target Language is required.
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="target-text">Target Text:</label>
+                    <textarea class="form-control" id="target-text" name="targetText" [ngModel]="answer"
+                        disabled></textarea>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <button type="button" class="btn btn-secondary btn-lg mr-3" [routerLink]="['/home']">Home</button>
+                <button type="submit" class="btn btn-primary btn-lg">Translate</button>
+            </div>
+        </div>
+    </div>
+</form>

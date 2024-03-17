@@ -1,0 +1,231 @@
+NEG+1p+PRES+be able
+2s+IMP+come
+2p+IMP+come
+2s+IMP+bring
+2p+IMP+bring
+2s+IMP+drink
+2p+IMP+drink
+2s+IMP+look
+2p+IMP+look
+2s+IMP+help
+2p+IMP+help
+2s+IMP+answer
+2p+IMP+answer
+2s+IMP+learn
+2p+IMP+learn
+1s+PRES+eat
+NEG+1s+PRES+eat
+2s+PRES+write
+NEG+2s+PRES+write
+1p+PRES+answer
+NEG+1p+PRES+answer
+1s+PAST+eat
+NEG+1s+PAST+eat
+2s+PAST+write
+NEG+2s+PAST+write
+1p+PAST+answer
+NEG+1p+PAST+answer
+1s+PERF+eat
+NEG+1s+PERF+eat
+2s+PERF+write
+NEG+2s+PERF+write
+1p+PERF+answer
+NEG+1p+PERF+answer
+1s+FUT+eat
+NEG+1s+FUT+eat
+2s+FUT+write
+NEG+2s+FUT+write
+1p+FUT+answer
+NEG+1p+FUT+answer
+NEG+3p+PRES+be suitable
+1s+PAST+open
+1s+PAST+close
+NEG+1s+PERF+start
+1s+PERF+start
+1s+PRES+mean
+2s+PRES+say
+3p+PAST+say
+2s+PAST+say
+2s+PRES+speak
+2s+IMP+speak
+NEG+1s+PRES+speak
+2s+PRES+understand
+NEG+1s+PRES+understand
+2s+PERF+understand
+1s+PAST+converse
+1p+PRES+request
+2s+IMP+write
+2s+PRES+recommend
+2s+IMP+confirm
+1s+PAST+read
+1s+PRES+be named
+3s+PRES+be named
+1s+PRES+come from
+2s+PRES+come from
+1s+PERF+come from
+3p+PERF+live
+1p+PRES+live
+NEG+1p+PRES+live
+1p+PRES+stay
+NEG+1p+PRES+stay
+NEG+1s+FUT+die
+2s+PERF+be born
+1s+PERF+be born
+1s+PERF+subtract
+1p+FUT+pay
+1s+FUT+get
+1s+PAST+get
+2s+PERF+bring
+2s+IMP+take
+2s+IMP+put
+2s+PAST+put
+1s+PAST+take
+2s+IMP+pass
+2s+PERF+receive
+1s+PRES+come
+3s+PAST+come
+2s+PRES+go
+1p+PRES+depart
+2s+IMP+depart
+1p+FUT+return
+1s+FUT+return
+2s+PAST+visit
+2s+PRES+do
+1p+PAST+arrive
+1s+PERF+be lost
+NEG+1p+PERF+be lost
+2s+IMP+turn
+1p+PERF+arrive at
+1s+PAST+run
+2s+PRES+sell
+2s+IMP+eat
+1s+PRES+wash
+2s+IMP+turn off
+2s+IMP+turn on
+1s+PRES+make
+2s+IMP+add
+2s+IMP+leave
+1s+PAST+prepare
+2s+PRES+mix
+1p+PRES+mix
+2s+IMP+boil
+1s+PRES+boil
+2s+IMP+cut
+1p+FUT+repair
+1s+PAST+lose
+1s+PRES+look for
+NEG+1s+PRES+know
+2s+PRES+know
+1s+PRES+remember
+2s+IMP+remember
+1s+PAST+remember
+1s+PERF+forget
+NEG+1s+PRES+forget
+1s+FUT+ask
+1p+PRES+learn
+1p+PERF+learn
+2s+PERF+be wrong
+1s+PERF+be wrong
+1s+PAST+think
+2s+PRES+think
+2s+PRES+love
+NEG+1s+PRES+love
+2s+PERF+be full
+1s+PERF+be full
+2s+PERF+tire
+1s+PRES+prefer
+1s+PRES+fear
+3p+PRES+fear
+1s+PERF+be used to
+NEG+1s+PERF+be used to
+2s+PERF+be used to
+1s+PRES+hate
+2s+PRES+listen
+NEG+1s+PAST+listen
+2s+PRES+hear
+1s+PAST+hear
+2s+IMP+look
+2s+IMP+wait
+1s+PAST+wait
+2s+IMP+stop
+2s+PERF+awaken
+3s+PERF+sleep
+2s+IMP+sleep
+1p+PRES+order
+1s+PRES+hope
+3p+PRES+hope
+2s+PRES+plan
+1p+PRES+plan
+1p+FUT+be late
+1s+PRES+watch
+1s+PAST+think
+1s+PRES+try
+1p+PRES+argue
+3p+PRES+argue
+1p+FUT+play
+2s+PRES+agree
+3s+PRES+agree
+NEG+1s+PRES+agree
+2s+IMP+continue
+1p+FUT+continue
+2s+IMP+wear
+1s+PERF+wear
+3p+PERF+wear
+2s+IMP+taste
+2s+PRES+pray
+NEG+2s+PRES+need
+1s+PAST+realize
+1p+PAST+decide
+3s+PAST+decide
+1s+PAST+decide
+1p+FUT+share
+1p+FUT+share
+2s+IMP+sing
+2p+IMP+laugh
+2s+PRES+laugh
+2p+PRES+play
+2s+PERF+be happy
+1p+PAST+be happy
+2s+PERF+be angry
+2s+IMP+cross
+1s+PRES+be sick
+3s+PRES+be sick
+3s+PAST+finish
+2s+PERF+finish
+1p+FUT+finish
+2s+PRES+resemble
+2s+PRES+improve
+2s+PERF+exchange
+1s+PAST+kill
+3p+PRES+drive
+3p+PRES+plan
+1p+PRES+plan
+2s+PRES+be able
+3p+PRES+build
+1s+PAST+be shocked
+3s+PRES+look great
+2s+PERF+look great
+3s+PAST+grow up
+3p+FUT+visit
+1s+PRES+visit
+3p+FUT+close
+3s+PRES+cry
+3p+FUT+steal
+NEG+1s+PRES+believe
+1s+PRES+be required
+1s+FUT+think about
+3s+PERF+put on weight
+1s+PERF+lose weight
+1s+PAST+leave
+1s+PRES+approach
+1p+PRES+approach
+3s+PRES+approach
+1s+PAST+fall
+NEG+3p+PRES+allow
+1p+PAST+rent
+2s+PRES+be named
+3p+PAST+die
+2s+PRES+care
+3s+PRES+study
+3p+PRES+study
+1s+PRES+wish

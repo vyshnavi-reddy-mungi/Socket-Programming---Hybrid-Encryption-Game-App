@@ -1,0 +1,72 @@
+NEG+1s+PRES+eat
+NEG+1s+PAST+eat
+NEG+1s+PERF+eat
+NEG+1s+FUT+eat
+NEG+1s+PERF+start
+NEG+1s+PRES+speak
+NEG+1s+PRES+understand
+NEG+1s+FUT+die
+NEG+1s+PRES+know
+NEG+1s+PRES+forget
+NEG+1s+PRES+love
+NEG+1s+PERF+be used to
+NEG+1s+PAST+listen
+NEG+1s+PRES+agree
+NEG+1s+PRES+believe
+NEG+2s+PRES+write
+NEG+2s+PAST+write
+NEG+2s+PERF+write
+NEG+2s+FUT+write
+NEG+2s+PRES+need
+NEG+1p+PRES+be able
+NEG+1p+PRES+answer
+NEG+1p+PAST+answer
+NEG+1p+PERF+answer
+NEG+1p+FUT+answer
+NEG+1p+PRES+live
+NEG+1p+PRES+stay
+NEG+1p+PERF+be lost
+NEG+3p+PRES+be suitable
+NEG+3p+PRES+allow
+NEG+1s+PAST+write
+NEG+2s+PAST+write
+NEG+3s+PAST+write
+NEG+1p+PAST+write
+NEG+2p+PAST+write
+NEG+3p+PAST+write
+NEG+1s+PRES+write
+NEG+2s+PRES+write
+NEG+3s+PRES+write
+NEG+1p+PRES+write
+NEG+2p+PRES+write
+NEG+3p+PRES+write
+NEG+1s+FUT+write
+NEG+2s+FUT+write
+NEG+3s+FUT+write
+NEG+1p+FUT+write
+NEG+2p+FUT+write
+NEG+3p+FUT+write
+NEG+1s+PAST+be suitable
+NEG+2s+PAST+be suitable
+NEG+3s+PAST+be suitable
+NEG+1p+PAST+be suitable
+NEG+2p+PAST+be suitable
+NEG+3p+PAST+be suitable
+NEG+1s+PRES+be suitable
+NEG+2s+PRES+be suitable
+NEG+3s+PRES+be suitable
+NEG+1p+PRES+be suitable
+NEG+2p+PRES+be suitable
+NEG+3p+PRES+be suitable
+NEG+1s+FUT+be suitable
+NEG+2s+FUT+be suitable
+NEG+3s+FUT+be suitable
+NEG+1p+FUT+be suitable
+NEG+2p+FUT+be suitable
+NEG+3p+FUT+be suitable
+NEG+1s+PERF+be suitable
+NEG+2s+PERF+be suitable
+NEG+3s+PERF+be suitable
+NEG+1p+PERF+be suitable
+NEG+2p+PERF+be suitable
+NEG+3p+PERF+be suitable

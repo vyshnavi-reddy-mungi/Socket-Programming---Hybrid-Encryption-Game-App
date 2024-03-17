@@ -1,0 +1,1052 @@
+{
+    "lang": {
+      "en" : {
+        "pronouns" : {
+          "1" : {
+            "singular" : {
+              "neutral": ["I"]
+            }, 
+            "plural": {
+              "neutral": ["we"]
+            }
+          },
+          "2" : {
+            "singular" : {
+              "neutral" :["you"]
+            },
+            "plural": {
+              "neutral" : ["you"]
+            }
+          },
+          "3" : {
+            "singular" : {
+              "male": ["he"],
+              "female": ["she"], 
+              "neutral": ["it"]
+            },
+            "plural": {
+              "neutral": ["they"]
+            }
+          }
+        },
+        "verbs" : {
+          "past" : {
+            "simple" : {
+              "1" : {
+                "singular" : {
+                  "neutral" : ["spoke", "wrote", "drove", "loved", "gave", "smiled", "took"]
+                },
+                "plural" : {
+                  "neutral" : ["spoke", "wrote", "drove", "loved", "gave", "smiled", "took"]
+                }
+              },
+              "2" : {
+                "singular" : {
+                  "neutral" : ["spoke", "wrote", "drove", "loved", "gave", "smiled", "took"]
+                },
+                "plural" : {
+                  "neutral" : ["spoke", "wrote", "drove", "loved", "gave", "smiled", "took"]
+                }
+              },
+              "3" : {
+                "singular" : {
+                  "male" : ["spoke", "wrote", "drove", "loved", "gave", "smiled", "took"],
+                  "female" : ["spoke", "wrote", "drove", "loved", "gave", "smiled", "took"],
+                  "neutral" : ["spoke", "wrote", "drove", "loved", "gave", "smiled", "took"]
+                },
+                "plural" : {
+                  "neutral" : ["spoke", "wrote", "drove", "loved", "gave", "smiled", "took"]
+                }
+              }
+            },
+            "continious" : {
+              "1" : {
+                "singular" : {
+                  "neutral" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"]
+                },
+                "plural" : {
+                  "neutral" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"]
+                }
+              },
+              "2" : {
+                "singular" : {
+                  "neutral" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"]
+                },
+                "plural" : {
+                  "neutral" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"]
+                }
+              },
+              "3" : {
+                "singular" : {
+                  "male" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"],
+                  "female" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"],
+                  "neutral" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"]
+                },
+                "plural" : {
+                  "neutral" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"]
+                }
+              }
+            },
+            "perfect" : {
+              "1" : {
+                "singular" : {
+                  "neutral" : ["spoken", "written", "driven", "loved", "given", "smiled", "taken"]
+                },
+                "plural" : {
+                  "neutral" : ["spoken", "written", "driven", "loved", "given", "smiled", "taken"]
+                }
+              },
+              "2" : {
+                "singular" : {
+                  "neutral" : ["spoken", "written", "driven", "loved", "given", "smiled", "taken"]
+                },
+                "plural" : {
+                  "neutral" : ["spoken", "written", "driven", "loved", "given", "smiled", "taken"]
+                }
+              },
+              "3" : {
+                "singular" : {
+                  "male" : ["spoken", "written", "driven", "loved", "given", "smiled", "taken"],
+                  "female" : ["spoken", "written", "driven", "loved", "given", "smiled", "taken"],
+                  "neutral" : ["spoken", "written", "driven", "loved", "given", "smiled", "taken"]
+                },
+                "plural" : {
+                  "neutral" : ["spoken", "written", "driven", "loved", "given", "smiled", "taken"]
+                }
+              }
+            },
+            "perfectContinious" : {
+              "1" : {
+                "singular" : {
+                  "neutral" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"]
+                },
+                "plural" : {
+                  "neutral" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"]
+                }
+              },
+              "2" : {
+                "singular" : {
+                  "neutral" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"]
+                },
+                "plural" : {
+                  "neutral" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"]
+                }
+              },
+              "3" : {
+                "singular" : {
+                  "male" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"],
+                  "female" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"],
+                  "neutral" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"]
+                },
+                "plural" : {
+                  "neutral" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"]
+                }
+              }
+            }
+          },
+          "present" : {
+            "simple" : {
+              "1" : {
+                "singular" : {
+                  "neutral" : ["speak", "write", "drive", "love", "give", "smile", "take"]
+                },
+                "plural" : {
+                  "neutral" : ["speak", "write", "drive", "love", "give", "smile", "take"]
+                }
+              },
+              "2" : {
+                "singular" : {
+                  "neutral" : ["speak", "write", "drive", "love", "give", "smile", "take"]
+                },
+                "plural" : {
+                  "neutral" : ["speak", "write", "drive", "love", "give", "smile", "take"]
+                }
+              },
+              "3" : {
+                "singular" : {
+                  "male" : ["speak", "write", "drive", "love", "give", "smile", "take"],
+                  "female" : ["speak", "write", "drive", "love", "give", "smile", "take"],
+                  "neutral" : ["speak", "write", "drive", "love", "give", "smile", "take"]
+                },
+                "plural" : {
+                  "neutral" : ["speak", "write", "drive", "love", "give", "smile", "take"]
+                }
+              }
+            },
+            "continious" : {
+              "1" : {
+                "singular" : {
+                  "neutral" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"]
+                },
+                "plural" : {
+                  "neutral" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"]
+                }
+              },
+              "2" : {
+                "singular" : {
+                  "neutral" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"]
+                },
+                "plural" : {
+                  "neutral" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"]
+                }
+              },
+              "3" : {
+                "singular" : {
+                  "male" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"],
+                  "female" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"],
+                  "neutral" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"]
+                },
+                "plural" : {
+                  "neutral" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"]
+                }
+              }
+            },
+            "perfect" : {
+              "1" : {
+                "singular" : {
+                  "neutral" : ["spoken", "written", "driven", "loved", "given", "smiled", "taken"]
+                },
+                "plural" : {
+                  "neutral" : ["spoken", "written", "driven", "loved", "given", "smiled", "taken"]
+                }
+              },
+              "2" : {
+                "singular" : {
+                  "neutral" : ["spoken", "written", "driven", "loved", "given", "smiled", "taken"]
+                },
+                "plural" : {
+                  "neutral" : ["spoken", "written", "driven", "loved", "given", "smiled", "taken"]
+                }
+              },
+              "3" : {
+                "singular" : {
+                  "male" : ["spoken", "written", "driven", "loved", "given", "smiled", "taken"],
+                  "female" : ["spoken", "written", "driven", "loved", "given", "smiled", "taken"],
+                  "neutral" : ["spoken", "written", "driven", "loved", "given", "smiled", "taken"]
+                },
+                "plural" : {
+                  "neutral" : ["spoken", "written", "driven", "loved", "given", "smiled", "taken"]
+                }
+              }
+            },
+            "perfectContinious" : {
+              "1" : {
+                "singular" : {
+                  "neutral" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"]
+                },
+                "plural" : {
+                  "neutral" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"]
+                }
+              },
+              "2" : {
+                "singular" : {
+                  "neutral" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"]
+                },
+                "plural" : {
+                  "neutral" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"]
+                }
+              },
+              "3" : {
+                "singular" : {
+                  "male" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"],
+                  "female" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"],
+                  "neutral" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"]
+                },
+                "plural" : {
+                  "neutral" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"]
+                }
+              }
+            }
+          },
+          "future" : {
+            "simple" : {
+              "1" : {
+                "singular" : {
+                  "neutral" : ["speak", "write", "drive", "love", "give", "smile", "take"]
+                },
+                "plural" : {
+                  "neutral" : ["speak", "write", "drive", "love", "give", "smile", "take"]
+                }
+              },
+              "2" : {
+                "singular" : {
+                  "neutral" : ["speak", "write", "drive", "love", "give", "smile", "take"]
+                },
+                "plural" : {
+                  "neutral" : ["speak", "write", "drive", "love", "give", "smile", "take"]
+                }
+              },
+              "3" : {
+                "singular" : {
+                  "male" : ["speak", "write", "drive", "love", "give", "smile", "take"],
+                  "female" : ["speak", "write", "drive", "love", "give", "smile", "take"],
+                  "neutral" : ["speak", "write", "drive", "love", "give", "smile", "take"]
+                },
+                "plural" : {
+                  "neutral" : ["speak", "write", "drive", "love", "give", "smile", "take"]
+                }
+              }
+            },
+            "continious" : {
+              "1" : {
+                "singular" : {
+                  "neutral" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"]
+                },
+                "plural" : {
+                  "neutral" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"]
+                }
+              },
+              "2" : {
+                "singular" : {
+                  "neutral" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"]
+                },
+                "plural" : {
+                  "neutral" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"]
+                }
+              },
+              "3" : {
+                "singular" : {
+                  "male" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"],
+                  "female" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"],
+                  "neutral" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"]
+                },
+                "plural" : {
+                  "neutral" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"]
+                }
+              }
+            },
+            "perfect" : {
+              "1" : {
+                "singular" : {
+                  "neutral" : ["spoken", "written", "driven", "loved", "given", "smiled", "taken"]
+                },
+                "plural" : {
+                  "neutral" : ["spoken", "written", "driven", "loved", "given", "smiled", "taken"]
+                }
+              },
+              "2" : {
+                "singular" : {
+                  "neutral" : ["spoken", "written", "driven", "loved", "given", "smiled", "taken"]
+                },
+                "plural" : {
+                  "neutral" : ["spoken", "written", "driven", "loved", "given", "smiled", "taken"]
+                }
+              },
+              "3" : {
+                "singular" : {
+                  "male" : ["spoken", "written", "driven", "loved", "given", "smiled", "taken"],
+                  "female" : ["spoken", "written", "driven", "loved", "given", "smiled", "taken"],
+                  "neutral" : ["spoken", "written", "driven", "loved", "given", "smiled", "taken"]
+                },
+                "plural" : {
+                  "neutral" : ["spoken", "written", "driven", "loved", "given", "smiled", "taken"]
+                }
+              }
+            },
+            "perfectContinious" : {
+              "1" : {
+                "singular" : {
+                  "neutral" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"]
+                },
+                "plural" : {
+                  "neutral" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"]
+                }
+              },
+              "2" : {
+                "singular" : {
+                  "neutral" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"]
+                },
+                "plural" : {
+                  "neutral" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"]
+                }
+              },
+              "3" : {
+                "singular" : {
+                  "male" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"],
+                  "female" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"],
+                  "neutral" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"]
+                },
+                "plural" : {
+                  "neutral" : ["speaking", "writing", "driving", "loving", "giving", "smiling", "taking"]
+                }
+              }
+            }
+          }
+        },
+        "auxilary verbs" : {
+          "past" : {
+            "continious" : {
+              "1" : {
+                "singular" : ["was"],
+                "plural" : ["were"]
+              },
+              "2" : {
+                "singular" : ["were"],
+                "plural" : ["were"]
+              }, 
+              "3" : {
+                "singular" : ["was"],
+                "plural" : ["were"]
+              }
+            },
+            "perfect" : {
+              "1" : {
+                "singular" : ["had"],
+                "plural" : ["had"]
+              },
+              "2" : {
+                "singular" : ["had"],
+                "plural" : ["had"]
+              }, 
+              "3" : {
+                "singular" : ["had"],
+                "plural" : ["had"]
+              }
+            },
+            "perfectContinious" : {
+              "1" : {
+                "singular" : ["had_been"],
+                "plural" : ["had_been"]
+              },
+              "2" : {
+                "singular" : ["had_been"],
+                "plural" : ["had_been"]
+              }, 
+              "3" : {
+                "singular" : ["had_been"],
+                "plural" : ["had_been"]
+              }
+            }
+          },
+          "present" : {
+            "continious" : {
+              "1" : {
+                "singular" : ["am"],
+                "plural" : ["are"]
+              },
+              "2" : {
+                "singular" : ["are"],
+                "plural" : ["are"]
+              }, 
+              "3" : {
+                "singular" : ["is"],
+                "plural" : ["are"]
+              }
+            },
+            "perfect" : {
+              "1" : {
+                "singular" : ["have"],
+                "plural" : ["have"]
+              },
+              "2" : {
+                "singular" : ["have"],
+                "plural" : ["have"]
+              }, 
+              "3" : {
+                "singular" : ["has"],
+                "plural" : ["have"]
+              }
+            },
+            "perfectContinious" : {
+              "1" : {
+                "singular" : ["have_been"],
+                "plural" : ["have_been"]
+              },
+              "2" : {
+                "singular" : ["have_been"],
+                "plural" : ["have_been"]
+              }, 
+              "3" : {
+                "singular" : ["has_been"],
+                "plural" : ["have_been"]
+              }
+            }
+          },
+          "future" : {
+            "simple" : {
+              "1" : {
+                "singular" : ["will"],
+                "plural" : ["will"]
+              },
+              "2" : {
+                "singular" : ["will"],
+                "plural" : ["will"]
+              }, 
+              "3" : {
+                "singular" : ["will"],
+                "plural" : ["will"]
+              }
+            },
+            "continious" : {
+              "1" : {
+                "singular" : ["will_be"],
+                "plural" : ["will_be"]
+              },
+              "2" : {
+                "singular" : ["will_be"],
+                "plural" : ["will_be"]
+              }, 
+              "3" : {
+                "singular" : ["will_be"],
+                "plural" : ["will_be"]
+              }
+            },
+            "perfect" : {
+              "1" : {
+                "singular" : ["will_have"],
+                "plural" : ["will_have"]
+              },
+              "2" : {
+                "singular" : ["will_have"],
+                "plural" : ["will_have"]
+              }, 
+              "3" : {
+                "singular" : ["will_have"],
+                "plural" : ["will_have"]
+              }
+            },
+            "perfectContinious" : {
+              "1" : {
+                "singular" : ["will_have_been"],
+                "plural" : ["will_have_been"]
+              },
+              "2" : {
+                "singular" : ["will_have_been"],
+                "plural" : ["will_have_been"]
+              }, 
+              "3" : {
+                "singular" : ["will_have_been"],
+                "plural" : ["will_have_been"]
+              }
+          }
+        }
+      }
+    },
+      "te" : {
+        "pronouns" : {
+          "1" : {
+            "singular" : {
+              "neutral" : ["నేను"]
+            },
+            "plural" : {
+              "neutral" : ["మేము"]
+            }
+          },
+          "2" : {
+            "singular" : {
+              "neutral" : ["నువు"]
+            },
+            "plural" : {
+              "neutral" : ["మీరు"]
+            }
+          },
+          "3" : {
+            "singular" : {
+              "male" : ["అతను"],
+              "female" : ["ఆమె"],
+              "neutral" : ["అది"]
+            },
+            "plural" : {
+              "neutral" : ["వారు"]
+            }
+          }
+        },
+        "verbs" : {
+          "past" : {
+            "simple" : {
+              "1" : {
+                "singular" : {
+                  "neutral" : ["మాట్లాడాను", "రాసాను", "నడిపాను", "ప్రేమించాను", "ఇచ్చాను", "నవ్వాను", "తీసుకున్నా"]
+                },
+                "plural" : {
+                  "neutral" : ["మాట్లాడాము", "రాసాము", "నడిపాము", "ప్రేమించాము", "ఇచ్చాము", "నవ్వాము", "తీసుకున్నాము"]
+                }
+              },
+              "2" : {
+                "singular" : {
+                  "neutral" : ["మాట్లాడవు", "రాసావు", "నడిపావు", "ప్రేమించావు", "ఇచ్చావు", "నవ్వావు", "తీసుకున్నావు"]
+                },
+                "plural" : {
+                  "neutral" : ["మాట్లాడరు", "రాసారు", "నడిపారు", "ప్రేమించారు", "ఇచ్చారు", "నవ్వారు", "తీసుకున్నారు"]
+                }
+              },
+              "3" : {
+                "singular" : {
+                  "male" : ["మాట్లాడాడు", "రాసాడు", "నడిపాడు", "ప్రేమించాడు", "ఇచ్చాడు", "నవ్వాడు", "తీసుకున్నాడు"],
+                  "female" : ["మాట్లాడింది", "రాసింది", "నడిపింది", "ప్రేమించింది", "ఇచింది", "నవిండి", "తీసుకుంది"],
+                  "neutral" : ["మాట్లాడింది", "రాసింది", "నడిపింది", "ప్రేమించింది", "ఇచింది", "నవిండి", "తీసుకుంది"]
+                },
+                "plural" : {
+                  "neutral" : ["మాట్లాడరు", "రాసారు", "నడిపారు", "ప్రేమించారు", "ఇచ్చారు", "నవ్వారు", "తీసుకున్నారు"]
+                }
+              }
+            },
+            "continious" : {
+              "1" : {
+                "singular" : {
+                  "neutral" : ["మాట్లాడుతున్నాను", "రాస్తునాను", "నడుపుతునాను", "ప్రేమిస్తున్నాను", "ఇస్తునను", "నవుతునాను", "తీసుకున్నాను"]
+                },
+                "plural" : {
+                  "neutral" : ["మాట్లాడుతున్నాము", "రాస్తునము", "నడుపుతునాము", "ప్రేమిస్తున్నాము", "ఇస్తునము", "నవుతునాము", "తీసుకున్నాము"]
+                }
+              },
+              "2" : {
+                "singular" : {
+                  "neutral" : ["మాట్లాడుతున్నావు", "రాస్తునావు", "నడుపుతునావు", "ప్రేమిస్తున్నావు", "ఇస్తునవు", "నవుతునావు", "తీసుకున్నావు"]
+                },
+                "plural" : {
+                  "neutral" : ["మాట్లాడుతున్నారు", "రాస్తునారు", "నడుపుతునారు", "ప్రేమిస్తున్నారు", "ఇస్తునరు", "నవుతునారు", "తీసుకున్నారు"]
+                }
+              },
+              "3" : {
+                "singular" : {
+                  "male" : ["మాట్లాడుతున్నాడు", "రాస్తునాడు", "నడుపుతునాడు", "ప్రేమిస్తున్నాడు", "ఇస్తునడు", "నవుతునాడు", "తీసుకున్నాడు"],
+                  "female" : ["మాట్లాడుతుంది", "రాస్తుంది", "నడుపుతుంది", "ప్రేమిస్తుంది", "ఇస్తుంది", "నవుతుంది", "తీసుకుంది"],
+                  "neutral" : ["మాట్లాడుతుంది", "రాస్తుంది", "నడుపుతుంది", "ప్రేమిస్తుంది", "ఇస్తుంది", "నవుతుంది", "తీసుకుంది"]
+                },
+                "plural" : {
+                  "neutral" : ["మాట్లాడుతున్నారు", "రాస్తునారు", "నడుపుతునారు", "ప్రేమిస్తున్నారు", "ఇస్తునరు", "నవుతునారు", "తీసుకున్నారు"]
+                }
+              }
+            },
+            "perfect" : {
+              "1" : {
+                "singular" : {
+                  "neutral" : ["మాట్లాడాను", "రాసాను", "నడిపాను", "ప్రేమించాను", "ఇచ్చాను", "నవ్వాను", "తీసుకున్నా"]
+                },
+                "plural" : {
+                  "neutral" : ["మాట్లాడాము", "రాసాము", "నడిపాము", "ప్రేమించాము", "ఇచ్చాము", "నవ్వాము", "తీసుకున్నాము"]
+                }
+              },
+              "2" : {
+                "singular" : {
+                  "neutral" : ["మాట్లాడవు", "రాసావు", "నడిపావు", "ప్రేమించావు", "ఇచ్చావు", "నవ్వావు", "తీసుకున్నావు"]
+                },
+                "plural" : {
+                  "neutral" : ["మాట్లాడరు", "రాసారు", "నడిపారు", "ప్రేమించారు", "ఇచ్చారు", "నవ్వారు", "తీసుకున్నారు"]
+                }
+              },
+              "3" : {
+                "singular" : {
+                  "male" : ["మాట్లాడాడు", "రాసాడు", "నడిపాడు", "ప్రేమించాడు", "ఇచ్చాడు", "నవ్వాడు", "తీసుకున్నాడు"],
+                  "female" : ["మాట్లాడింది", "రాసింది", "నడిపింది", "ప్రేమించింది", "ఇచింది", "నవిండి", "తీసుకుంది"],
+                  "neutral" : ["మాట్లాడింది", "రాసింది", "నడిపింది", "ప్రేమించింది", "ఇచింది", "నవిండి", "తీసుకుంది"]
+                },
+                "plural" : {
+                  "neutral" : ["మాట్లాడరు", "రాసారు", "నడిపారు", "ప్రేమించారు", "ఇచ్చారు", "నవ్వారు", "తీసుకున్నారు"]
+                }
+              }
+            },
+            "perfectContinious" : {
+              "1" : {
+                "singular" : {
+                  "neutral" : ["మాట్లాడుతున్నాను", "రాస్తునాను", "నడుపుతునాను", "ప్రేమిస్తున్నాను", "ఇస్తునను", "నవుతునాను", "తీసుకున్నాను"]
+                },
+                "plural" : {
+                  "neutral" : ["మాట్లాడుతున్నాము", "రాస్తునము", "నడుపుతునాము", "ప్రేమిస్తున్నాము", "ఇస్తునము", "నవుతునాము", "తీసుకున్నాము"]
+                }
+              },
+              "2" : {
+                "singular" : {
+                  "neutral" : ["మాట్లాడుతున్నావు", "రాస్తునావు", "నడుపుతునావు", "ప్రేమిస్తున్నావు", "ఇస్తునవు", "నవుతునావు", "తీసుకున్నావు"]
+                },
+                "plural" : {
+                  "neutral" : ["మాట్లాడుతున్నారు", "రాస్తునారు", "నడుపుతునారు", "ప్రేమిస్తున్నారు", "ఇస్తునరు", "నవుతునారు", "తీసుకున్నారు"]
+                }
+              },
+              "3" : {
+                "singular" : {
+                  "male" : ["మాట్లాడుతున్నాడు", "రాస్తునాడు", "నడుపుతునాడు", "ప్రేమిస్తున్నాడు", "ఇస్తునడు", "నవుతునాడు", "తీసుకున్నాడు"],
+                  "female" : ["మాట్లాడుతుంది", "రాస్తుంది", "నడుపుతుంది", "ప్రేమిస్తుంది", "ఇస్తుంది", "నవుతుంది", "తీసుకుంది"],
+                  "neutral" : ["మాట్లాడుతుంది", "రాస్తుంది", "నడుపుతుంది", "ప్రేమిస్తుంది", "ఇస్తుంది", "నవుతుంది", "తీసుకుంది"]
+                },
+                "plural" : {
+                  "neutral" : ["మాట్లాడుతున్నారు", "రాస్తునారు", "నడుపుతునారు", "ప్రేమిస్తున్నారు", "ఇస్తునరు", "నవుతునారు", "తీసుకున్నారు"]
+                }
+              }
+            }
+          },
+          "present" : {
+            "simple" : {
+              "1" : {
+                "singular" : {
+                  "neutral" : ["మాట్లాడతా", "రాస్తా", "నడుపుతా", "ప్రేమిస్తా", "ఇస్తు", "నవ్వుతా", "తీసుకుంటా"]
+                },
+                "plural" : {
+                  "neutral" : ["మాట్లాడతాము", "రాస్తాము", "నడుపుతాము", "ప్రేమిస్తాము", "ఇస్తుము", "నవ్వుతాము", "తీసుకుంటాము"]
+                }
+              },
+              "2" : {
+                "singular" : {
+                  "neutral" : ["మాట్లాడు", "రాయి", "నడుపు", "ప్రేమించు", "ఇవ్వు", "నవ్వు", "తీసుకో"]
+                },
+                "plural" : {
+                  "neutral" : ["మాట్లాడండి", "రాయండి", "నడపండి", "ప్రేమించండీ", "ఇనవ్వండి", "ననవ్వండి", "తీసుకొండి"]
+                }
+              },
+              "3" : {
+                "singular" : {
+                  "male" : ["మాట్లాడతాడు", "రాస్తాడు", "నడుపుతాడు", "ప్రేమిస్తాడు", "ఇస్తాడు", "నవ్వుతాడు", "తీసుకుంటాడు"],
+                  "female" : ["మాట్లాడుతుంది", "రాస్తుంది", "నడుపుతుంది", "ప్రేమిస్తుంది", "ఇస్తుంది", "నవ్వుతుంది", "తీసుకుంటుంది"],
+                  "neutral" : ["మాట్లాడుతుంది", "రాస్తుంది", "నడుపుతుంది", "ప్రేమిస్తుంది", "ఇస్తుంది", "నవ్వుతుంది", "తీసుకుంటుంది"]
+                },
+                "plural" : {
+                  "neutral" : ["మాట్లాడతారు", "రాస్తారు", "నడుపుతారు", "ప్రేమిస్తారు", "ఇస్తారు", "నవ్వుతారు", "తీసుకుంటారు"]
+                }
+              }
+            },
+            "continious" : {
+              "1" : {
+                "singular" : {
+                  "neutral" : ["మాట్లాడుతున్నాను", "రాస్తునాను", "నడుపుతునాను", "ప్రేమిస్తున్నాను", "ఇస్తునను", "నవుతునాను", "తీసుకున్నాను"]
+                },
+                "plural" : {
+                  "neutral" : ["మాట్లాడుతున్నాము", "రాస్తునము", "నడుపుతునాము", "ప్రేమిస్తున్నాము", "ఇస్తునము", "నవుతునాము", "తీసుకున్నాము"]
+                }
+              },
+              "2" : {
+                "singular" : {
+                  "neutral" : ["మాట్లాడుతున్నావు", "రాస్తునావు", "నడుపుతునావు", "ప్రేమిస్తున్నావు", "ఇస్తునవు", "నవుతునావు", "తీసుకున్నావు"]
+                },
+                "plural" : {
+                  "neutral" : ["మాట్లాడుతున్నారు", "రాస్తునారు", "నడుపుతునారు", "ప్రేమిస్తున్నారు", "ఇస్తునరు", "నవుతునారు", "తీసుకున్నారు"]
+                }
+              },
+              "3" : {
+                "singular" : {
+                  "male" : ["మాట్లాడుతున్నాడు", "రాస్తునాడు", "నడుపుతునాడు", "ప్రేమిస్తున్నాడు", "ఇస్తునడు", "నవుతునాడు", "తీసుకున్నాడు"],
+                  "female" : ["మాట్లాడుతుంది", "రాస్తుంది", "నడుపుతుంది", "ప్రేమిస్తుంది", "ఇస్తుంది", "నవుతుంది", "తీసుకుంది"],
+                  "neutral" : ["మాట్లాడుతుంది", "రాస్తుంది", "నడుపుతుంది", "ప్రేమిస్తుంది", "ఇస్తుంది", "నవుతుంది", "తీసుకుంది"]
+                },
+                "plural" : {
+                  "neutral" : ["మాట్లాడుతున్నారు", "రాస్తునారు", "నడుపుతునారు", "ప్రేమిస్తున్నారు", "ఇస్తునరు", "నవుతునారు", "తీసుకున్నారు"]
+                }
+              }
+            },
+            "perfect" : {
+              "1" : {
+                "singular" : {
+                  "neutral" : ["మాట్లాడాను", "రాసాను", "నడిపాను", "ప్రేమించాను", "ఇచ్చాను", "నవ్వాను", "తీసుకున్నా"]
+                },
+                "plural" : {
+                  "neutral" : ["మాట్లాడాము", "రాసాము", "నడిపాము", "ప్రేమించాము", "ఇచ్చాము", "నవ్వాము", "తీసుకున్నాము"]
+                }
+              },
+              "2" : {
+                "singular" : {
+                  "neutral" : ["మాట్లాడవు", "రాసావు", "నడిపావు", "ప్రేమించావు", "ఇచ్చావు", "నవ్వావు", "తీసుకున్నావు"]
+                },
+                "plural" : {
+                  "neutral" : ["మాట్లాడరు", "రాసారు", "నడిపారు", "ప్రేమించారు", "ఇచ్చారు", "నవ్వారు", "తీసుకున్నారు"]
+                }
+              },
+              "3" : {
+                "singular" : {
+                  "male" : ["మాట్లాడాడు", "రాసాడు", "నడిపాడు", "ప్రేమించాడు", "ఇచ్చాడు", "నవ్వాడు", "తీసుకున్నాడు"],
+                  "female" : ["మాట్లాడింది", "రాసింది", "నడిపింది", "ప్రేమించింది", "ఇచింది", "నవిండి", "తీసుకుంది"],
+                  "neutral" : ["మాట్లాడింది", "రాసింది", "నడిపింది", "ప్రేమించింది", "ఇచింది", "నవిండి", "తీసుకుంది"]
+                },
+                "plural" : {
+                  "neutral" : ["మాట్లాడరు", "రాసారు", "నడిపారు", "ప్రేమించారు", "ఇచ్చారు", "నవ్వారు", "తీసుకున్నారు"]
+                }
+              }
+            },
+            "perfectContinious" : {
+              "1" : {
+                "singular" : {
+                  "neutral" : ["మాట్లాడుతున్నాను", "రాస్తునాను", "నడుపుతునాను", "ప్రేమిస్తున్నాను", "ఇస్తునను", "నవుతునాను", "తీసుకున్నాను"]
+                },
+                "plural" : {
+                  "neutral" : ["మాట్లాడుతున్నాము", "రాస్తునము", "నడుపుతునాము", "ప్రేమిస్తున్నాము", "ఇస్తునము", "నవుతునాము", "తీసుకున్నాము"]
+                }
+              },
+              "2" : {
+                "singular" : {
+                  "neutral" : ["మాట్లాడుతున్నావు", "రాస్తునావు", "నడుపుతునావు", "ప్రేమిస్తున్నావు", "ఇస్తునవు", "నవుతునావు", "తీసుకున్నావు"]
+                },
+                "plural" : {
+                  "neutral" : ["మాట్లాడుతున్నారు", "రాస్తునారు", "నడుపుతునారు", "ప్రేమిస్తున్నారు", "ఇస్తునరు", "నవుతునారు", "తీసుకున్నారు"]
+                }
+              },
+              "3" : {
+                "singular" : {
+                  "male" : ["మాట్లాడుతున్నాడు", "రాస్తునాడు", "నడుపుతునాడు", "ప్రేమిస్తున్నాడు", "ఇస్తునడు", "నవుతునాడు", "తీసుకున్నాడు"],
+                  "female" : ["మాట్లాడుతుంది", "రాస్తుంది", "నడుపుతుంది", "ప్రేమిస్తుంది", "ఇస్తుంది", "నవుతుంది", "తీసుకుంది"],
+                  "neutral" : ["మాట్లాడుతుంది", "రాస్తుంది", "నడుపుతుంది", "ప్రేమిస్తుంది", "ఇస్తుంది", "నవుతుంది", "తీసుకుంది"]
+                },
+                "plural" : {
+                  "neutral" : ["మాట్లాడుతున్నారు", "రాస్తునారు", "నడుపుతునారు", "ప్రేమిస్తున్నారు", "ఇస్తునరు", "నవుతునారు", "తీసుకున్నారు"]
+                }
+              }
+            }
+          },
+          "future" : {
+            "simple" : {
+              "1" : {
+                "singular" : {
+                  "neutral" : ["మాట్లాడతాను", "రాస్తాను", "నడుపుతాను", "ప్రేమిస్తాను", "ఇస్తును", "నవ్వుతాను", "తీసుకుంటాను"]
+                },
+                "plural" : {
+                  "neutral" : ["మాట్లాడతాము", "రాస్తాము", "నడుపుతాము", "ప్రేమిస్తాము", "ఇస్తుము", "నవ్వుతాము", "తీసుకుంటాము"]
+                }
+              },
+              "2" : {
+                "singular" : {
+                  "neutral" : ["మాట్లాడతావు", "రాస్తావు", "నడుపుతావు", "ప్రేమిస్తావు", "ఇస్తావు", "నవ్వుతావు", "తీసుకుంటావు"]
+                },
+                "plural" : {
+                  "neutral" : ["మాట్లాడతారు", "రాస్తారు", "నడుపుతారు", "ప్రేమిస్తారు", "ఇస్తారు", "నవ్వుతారు", "తీసుకుంటారు"]
+                }
+              },
+              "3" : {
+                "singular" : {
+                  "male" : ["మాట్లాడతాడు", "రాస్తాడు", "నడుపుతాడు", "ప్రేమిస్తాడు", "ఇస్తాడు", "నవ్వుతాడు", "తీసుకుంటాడు"],
+                  "female" : ["మాట్లాడుతుంది", "రాస్తుంది", "నడుపుతుంది", "ప్రేమిస్తుంది", "ఇస్తుంది", "నవ్వుతుంది", "తీసుకుంటుంది"],
+                  "neutral" : ["మాట్లాడుతుంది", "రాస్తుంది", "నడుపుతుంది", "ప్రేమిస్తుంది", "ఇస్తుంది", "నవ్వుతుంది", "తీసుకుంటుంది"]
+                },
+                "plural" : {
+                  "neutral" : ["మాట్లాడతారు", "రాస్తారు", "నడుపుతారు", "ప్రేమిస్తారు", "ఇస్తారు", "నవ్వుతారు", "తీసుకుంటారు"]
+                }
+              }
+            },
+            "continious" : {
+              "1" : {
+                "singular" : {
+                  "neutral" : ["మాట్లాడుతుంటాను", "రాస్తుంటాను", "నవుతుంటాను", "ప్రేమిస్తుంటాను", "ఇస్తుంటాను", "నవుస్తుంటాను", "తీసుకుంటూఉంటాను"]
+                },
+                "plural" : {
+                  "neutral" : ["మాట్లాడుతుంటాము", "రాస్తుంటాము", "నవుతుంటాము", "ప్రేమిస్తుంటాము", "ఇస్తుంటాము", "నవుస్తుంటాము", "తీసుకుంటూఉంటాము"]
+                }
+              },
+              "2" : {
+                "singular" : {
+                  "neutral" : ["మాట్లాడుతుంటావు", "రాస్తుంటావు", "నవుతుంటావు", "ప్రేమిస్తుంటావు", "ఇస్తుంటావు", "నవుస్తుంటావు", "తీసుకుంటూఉంటావు"]
+                },
+                "plural" : {
+                  "neutral" : ["మాట్లాడుతుంటారు", "రాస్తుంటారు", "నవుతుంటారు", "ప్రేమిస్తుంటారు", "ఇస్తుంటారు", "నవుస్తుంటారు", "తీసుకుంటూఉంటారు"]
+                }
+              },
+              "3" : {
+                "singular" : {
+                  "male" : ["మాట్లాడుతున్నాడు", "రాస్తునాడు", "నడుపుతునాడు", "ప్రేమిస్తున్నాడు", "ఇస్తునడు", "నవుతునాడు", "తీసుకున్నాడు"],
+                  "female" : ["మాట్లాడుతుంది", "రాస్తుంది", "నడుపుతుంది", "ప్రేమిస్తుంది", "ఇస్తుంది", "నవుతుంది", "తీసుకుంది"],
+                  "neutral" : ["మాట్లాడుతుంది", "రాస్తుంది", "నడుపుతుంది", "ప్రేమిస్తుంది", "ఇస్తుంది", "నవుతుంది", "తీసుకుంది"]
+                },
+                "plural" : {
+                  "neutral" : ["మాట్లాడుతున్నారు", "రాస్తునారు", "నడుపుతునారు", "ప్రేమిస్తున్నారు", "ఇస్తునరు", "నవుతునారు", "తీసుకున్నారు"]
+                }
+              }
+            },
+            "perfect" : {
+              "1" : {
+                "singular" : {
+                  "neutral" : ["మాట్లాడి ఉంటాను", "రాసి ఉంటాను", "నడిపి ఉంటాను", "ప్రేమించి ఉంటాను", "ఇచ్చి ఉంటాను", "నవి ఉంటాను", "తీసుకోని ఉంటాను"]
+                },
+                "plural" : {
+                  "neutral" : ["మాట్లాడి ఉంటాము", "రాసి ఉంటాము", "నడిపి ఉంటాము", "ప్రేమించి ఉంటాము", "ఇచ్చి ఉంటాము", "నవి ఉంటాము", "తీసుకోని ఉంటాము"]
+                }
+              },
+              "2" : {
+                "singular" : {
+                  "neutral" : ["మాట్లాడి ఉంటావు", "రాసి ఉంటావు", "నడిపి ఉంటావు", "ప్రేమించి ఉంటావు", "ఇచ్చి ఉంటావు", "నవి ఉంటావు", "తీసుకోని ఉంటావు"]
+                },
+                "plural" : {
+                  "neutral" : ["మాట్లాడి ఉంటారు", "రాసి ఉంటారు", "నడిపి ఉంటారు", "ప్రేమించి ఉంటారు", "ఇచ్చి ఉంటారు", "నవి ఉంటారు", "తీసుకోని ఉంటారు"]
+                }
+              },
+              "3" : {
+                "singular" : {
+                  "male" : ["మాట్లాడి ఉంటాడు", "రాసి ఉంటాడు", "నడిపి ఉంటాడు", "ప్రేమించి ఉంటాడు", "ఇచ్చి ఉంటాడు", "నవి ఉంటాడు", "తీసుకోని ఉంటాడు"],
+                  "female" : ["మాట్లాడి ఉంటుంది", "రాసి ఉంటుంది", "నడిపి ఉంటుంది", "ప్రేమించి ఉంటుంది", "ఇచ్చి ఉంటుంది", "నవి ఉంటుంది", "తీసుకోని ఉంటుంది"],
+                  "neutral" : ["మాట్లాడి ఉంటుంది", "రాసి ఉంటుంది", "నడిపి ఉంటుంది", "ప్రేమించి ఉంటుంది", "ఇచ్చి ఉంటుంది", "నవి ఉంటుంది", "తీసుకోని ఉంటుంది"]
+                },
+                "plural" : {
+                  "neutral" : ["మాట్లాడి ఉంటారు", "రాసి ఉంటారు", "నడిపి ఉంటారు", "ప్రేమించి ఉంటారు", "ఇచ్చి ఉంటారు", "నవి ఉంటారు", "తీసుకోని ఉంటారు"]
+                }
+              }
+            },
+            "perfectContinious" : {
+              "1" : {
+                "singular" : {
+                  "neutral" : ["మాట్లాడుతుంటాను", "రాస్తుంటాను", "నవుతుంటాను", "ప్రేమిస్తుంటాను", "ఇస్తుంటాను", "నవుస్తుంటాను", "తీసుకుంటూఉంటాను"]
+                },
+                "plural" : {
+                  "neutral" : ["మాట్లాడుతుంటాము", "రాస్తుంటాము", "నవుతుంటాము", "ప్రేమిస్తుంటాము", "ఇస్తుంటాము", "నవుస్తుంటాము", "తీసుకుంటూఉంటాము"]
+                }
+              },
+              "2" : {
+                "singular" : {
+                  "neutral" : ["మాట్లాడుతుంటావు", "రాస్తుంటావు", "నవుతుంటావు", "ప్రేమిస్తుంటావు", "ఇస్తుంటావు", "నవుస్తుంటావు", "తీసుకుంటూఉంటావు"]
+                },
+                "plural" : {
+                  "neutral" : ["మాట్లాడుతుంటారు", "రాస్తుంటారు", "నవుతుంటారు", "ప్రేమిస్తుంటారు", "ఇస్తుంటారు", "నవుస్తుంటారు", "తీసుకుంటూఉంటారు"]
+                }
+              },
+              "3" : {
+                "singular" : {
+                  "male" : ["మాట్లాడుతున్నాడు", "రాస్తునాడు", "నడుపుతునాడు", "ప్రేమిస్తున్నాడు", "ఇస్తునడు", "నవుతునాడు", "తీసుకున్నాడు"],
+                  "female" : ["మాట్లాడుతుంది", "రాస్తుంది", "నడుపుతుంది", "ప్రేమిస్తుంది", "ఇస్తుంది", "నవుతుంది", "తీసుకుంది"],
+                  "neutral" : ["మాట్లాడుతుంది", "రాస్తుంది", "నడుపుతుంది", "ప్రేమిస్తుంది", "ఇస్తుంది", "నవుతుంది", "తీసుకుంది"]
+                },
+                "plural" : {
+                  "neutral" : ["మాట్లాడుతున్నారు", "రాస్తునారు", "నడుపుతునారు", "ప్రేమిస్తున్నారు", "ఇస్తునరు", "నవుతునారు", "తీసుకున్నారు"]
+                }
+              }
+          }
+        }
+      },
+      "auxilary verbs" : {
+        "past" : {
+          "continious" : {
+            "1" : {
+              "singular" : ["was"],
+              "plural" : ["were"]
+            },
+            "2" : {
+              "singular" : ["were"],
+              "plural" : ["were"]
+            }, 
+            "3" : {
+              "singular" : ["was"],
+              "plural" : ["were"]
+            }
+          },
+          "perfect" : {
+            "1" : {
+              "singular" : ["had"],
+              "plural" : ["had"]
+            },
+            "2" : {
+              "singular" : ["had"],
+              "plural" : ["had"]
+            }, 
+            "3" : {
+              "singular" : ["had"],
+              "plural" : ["had"]
+            }
+          },
+          "perfectContinious" : {
+            "1" : {
+              "singular" : ["had_been"],
+              "plural" : ["had_been"]
+            },
+            "2" : {
+              "singular" : ["had_been"],
+              "plural" : ["had_been"]
+            }, 
+            "3" : {
+              "singular" : ["had_been"],
+              "plural" : ["had_been"]
+            }
+          }
+        },
+        "present" : {
+          "continious" : {
+            "1" : {
+              "singular" : ["am"],
+              "plural" : ["are"]
+            },
+            "2" : {
+              "singular" : ["are"],
+              "plural" : ["are"]
+            }, 
+            "3" : {
+              "singular" : ["is"],
+              "plural" : ["are"]
+            }
+          },
+          "perfect" : {
+            "1" : {
+              "singular" : ["have"],
+              "plural" : ["have"]
+            },
+            "2" : {
+              "singular" : ["have"],
+              "plural" : ["have"]
+            }, 
+            "3" : {
+              "singular" : ["has"],
+              "plural" : ["have"]
+            }
+          },
+          "perfectContinious" : {
+            "1" : {
+              "singular" : ["have_been"],
+              "plural" : ["have_been"]
+            },
+            "2" : {
+              "singular" : ["have_been"],
+              "plural" : ["have_been"]
+            }, 
+            "3" : {
+              "singular" : ["has_been"],
+              "plural" : ["have_been"]
+            }
+          }
+        },
+        "future" : {
+          "simple" : {
+            "1" : {
+              "singular" : ["will"],
+              "plural" : ["will"]
+            },
+            "2" : {
+              "singular" : ["will"],
+              "plural" : ["will"]
+            }, 
+            "3" : {
+              "singular" : ["will"],
+              "plural" : ["will"]
+            }
+          },
+          "continious" : {
+            "1" : {
+              "singular" : ["will_be"],
+              "plural" : ["will_be"]
+            },
+            "2" : {
+              "singular" : ["will_be"],
+              "plural" : ["will_be"]
+            }, 
+            "3" : {
+              "singular" : ["will_be"],
+              "plural" : ["will_be"]
+            }
+          },
+          "perfect" : {
+            "1" : {
+              "singular" : ["will_have"],
+              "plural" : ["will_have"]
+            },
+            "2" : {
+              "singular" : ["will_have"],
+              "plural" : ["will_have"]
+            }, 
+            "3" : {
+              "singular" : ["will_have"],
+              "plural" : ["will_have"]
+            }
+          },
+          "perfectContinious" : {
+            "1" : {
+              "singular" : ["will_have_been"],
+              "plural" : ["will_have_been"]
+            },
+            "2" : {
+              "singular" : ["will_have_been"],
+              "plural" : ["will_have_been"]
+            }, 
+            "3" : {
+              "singular" : ["will_have_been"],
+              "plural" : ["will_have_been"]
+            }
+        }
+      }
+      }
+    }
+  }
+}
+
+
+    
+  

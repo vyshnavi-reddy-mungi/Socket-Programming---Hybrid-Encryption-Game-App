@@ -1,0 +1,62 @@
+<div id="body" *ngIf="!displayResults">
+  <h5>Choose the correct answer ({{ question.questionNo }}/ {{ question.totalQuestions }}):</h5>
+  <br />
+  <div id="question">
+    <h4>{{ question.inputText }}</h4>
+  </div>
+  <form (ngSubmit)="onSubmit()" #questForm="ngForm">
+    <label class="choice" for="choice{{ i + 1 }}" *ngFor="let option of question.mcqOptions; let i = index">
+      <input type="radio" name="choice" id="choice{{ i + 1 }}" [value]="option" [(ngModel)]="question.optionAnswer" />
+      {{ option }}
+    </label>
+    <button style="width: fit-content" type="submit" [disabled]="!question.optionAnswer"
+      [ngClass]="{'btn': true, 'btn-primary': question.optionAnswer, 'btn-disabled': !question.optionAnswer}">
+      Submit
+    </button>
+  </form>
+</div>
+
+<div class="modal fade" id="resultModal" tabindex="-1" role="dialog" aria-labelledby="resultModalLabel"
+  aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="resultModalLabel">Result</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p>{{this.answer?.result ? 'Your answer is correct': 'your answer is wrong'}}</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="body" *ngIf="displayResults">
+  <button type="button" class="btn btn-secondary" [routerLink]="['/home']">Home</button>
+  <h5 style="text-align: center;">Score: {{answer?.scores}}/{{answer?.total}}</h5>
+  <table class="table">
+    <thead>
+      <tr>
+        <th scope="col">S no.</th>
+        <th scope="col">Question</th>
+        <th scope="col">Answer</th>
+        <th scope="col">Given Answer</th>
+        <th scope="col">Result</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let rowData of answer?.quizReport; let i=index;">
+        <th scope="row">{{i + 1}}</th>
+        <td>{{rowData?.question}}</td>
+        <td>{{rowData?.answer}}</td>
+        <td>{{rowData?.givenAnswer}}</td>
+        <td>{{(rowData?.answerFlag && rowData?.answerFlag === 1) ? 'Correct': 'Wrong'}}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
