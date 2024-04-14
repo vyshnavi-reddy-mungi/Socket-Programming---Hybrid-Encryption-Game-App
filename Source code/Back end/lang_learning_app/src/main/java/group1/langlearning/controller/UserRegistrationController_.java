@@ -33,7 +33,7 @@ import group1.langlearning.utils.HybridEncryption;
 @RestController
 @RequestMapping(path="/external/api/user")
 @CrossOrigin("*")
-public class UserRegistrationController {
+public class UserRegistrationController_ {
     
    
     @Autowired
@@ -43,7 +43,7 @@ public class UserRegistrationController {
     // private CommonTasks commonTasks;
 
     @Autowired
-    private HybridEncryption_ hybridEncryption;
+    private HybridEncryption hybridEncryption;
 
 //    @Autowired
 //     private RestTemplate restTemplate;

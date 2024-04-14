@@ -34,6 +34,8 @@ import java.util.regex.*;
 
 import java.io.*;
     //import com.icici.bean.RequestBean;
+import java.net.HttpURLConnection;
+import java.net.URL;
     
 @Service
 public class HybridEncryption {
@@ -42,8 +44,8 @@ public class HybridEncryption {
     //	static final String PUBLIC_CERTIFICATE = "D:\\Jagdeep\\ARFIN\\ICICIUATpubliccert\\ICICIUATpubliccert.cer";
     //	static final String PUBLIC_CERTIFICATE = "D:\\Mungi Vyshnavi Reddy\\fpcashdeposition ca\\RSA encryption & Decryption\\public-cert-file.cer";
         // static final String PUBLIC_CERTIFICATE =  "E:\\SLU\\Spring 24\\5550 Computer Networks\\project\\public-cert-file.cer";
-        static final String PUBLIC_CERTIFICATE =  "E:\\SLU Spring 24\\Spring 24\\5550 Computer Networks\\project\\Encryption Port 8080\\public-cert-file1.cer";
-        
+      //  static final String PUBLIC_CERTIFICATE =  "E:\\SLU Spring 24\\Spring 24\\5550 Computer Networks\\project\\Encryption Port 8080\\public-cert-file1.cer";
+        static final String PUBLIC_CERTIFICATE = "QmW9EAtq4jJwu4MCDvVqdin86KQaVGo3FLSYwtpjY99yei";
         public String encryptData(String incomingData) {
             System.out.println("Inside HybridEncService.encryptData()");
            
@@ -111,24 +113,108 @@ public class HybridEncryption {
             return key;
         }
     
+        // private X509Certificate getCertificate(String path) {
+        //     System.out.println("file is :" + path);
+        //     X509Certificate cert = null;
+
+        //     try {
+        //         FileInputStream inputStream = new FileInputStream(path);
+        //         CertificateFactory f = CertificateFactory.getInstance("X.509");
+        //         cert = (X509Certificate) f.generateCertificate(inputStream);
+        //         inputStream.close();
+        //         System.out.println("Certificate Public Key is :" + cert.getPublicKey());
+        //     } catch (FileNotFoundException e) {
+        //         e.printStackTrace();
+        //     } catch (Exception e) {
+        //         e.printStackTrace();
+        //     }
+    
+        //     return cert;
+        // }
+    
         private X509Certificate getCertificate(String path) {
             System.out.println("file is :" + path);
             X509Certificate cert = null;
-            try {
-                FileInputStream inputStream = new FileInputStream(path);
-                CertificateFactory f = CertificateFactory.getInstance("X.509");
-                cert = (X509Certificate) f.generateCertificate(inputStream);
-                inputStream.close();
-                System.out.println("Certificate Public Key is :" + cert.getPublicKey());
-            } catch (FileNotFoundException e) {
-                e.printStackTrace();
-            } catch (Exception e) {
-                e.printStackTrace();
-            }
+        String url = "http://127.0.0.1:8081/ipfs/"+path;
+        String cid_cert = "";
+        try {
+          cid_cert =  postData(url);
+        } catch (IOException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
+        // System.out.println("Certificate ------------- :"+cid_cert);
+                // Now create an input stream for the created file
     
+                // Use the input stream to generate the X509Certificate
+                try {
+                    cid_cert = cid_cert.replace("-----BEGIN CERTIFICATE-----", "-----BEGIN CERTIFICATE-----\n");
+			
+                CertificateFactory f = CertificateFactory.getInstance("X.509");
+                cert = (X509Certificate) f.generateCertificate(new ByteArrayInputStream(cid_cert.getBytes()));
+                
+                // CertificateFactory certificateFactory = CertificateFactory.getInstance("X.509");
+                // cert = (X509Certificate) certificateFactory.generateCertificate(new ByteArrayInputStream(cid_cert.getBytes()));
+                    
+                } catch (Exception e) {
+                    // TODO Auto-generated catch block
+                    e.printStackTrace();
+                }
+                
             return cert;
         }
     
+        public static String postData(String postUrl) throws IOException
+        {
+            URL url = new URL(postUrl);
+            HttpURLConnection connection = (HttpURLConnection) url.openConnection();
+            
+            connection.setRequestMethod("GET");
+            connection.setRequestProperty("Content-Type", "application/json"); // Set content type
+            connection.setConnectTimeout(60000);
+            
+            // Prepare your data as a String
+            // String data = "{\"name\": \"John Doe\", \"age\": 30}";
+            
+            connection.setDoOutput(true); // Allow writing to output stream
+           // OutputStream os = connection.getOutputStream();
+            //os.write(encryptedData.getBytes()); // Write data to output stream
+           // os.flush();
+            
+            
+            int responseCode = connection.getResponseCode();
+            String content = "";
+            InputStream is = null;
+            if (responseCode == HttpURLConnection.HTTP_OK) {
+              // Read response
+             is = connection.getInputStream();
+              
+              StringBuilder sb = new StringBuilder();
+              String line;
+              BufferedReader reader = new BufferedReader(new InputStreamReader(is));
+              
+              while ((line = reader.readLine()) != null) {
+                sb.append(line); // Add newline character after each line
+              }
+              
+               content = sb.toString();
+              
+              reader.close();
+             
+              is.close();
+            } else {
+              System.out.println("Error:"+responseCode);
+            }
+            
+            connection.disconnect();
+            
+            System.out.println("content-----------:"+content);
+            // String decryptedData= "";
+            
+          return content;
+        }
+    
+       
         /**************************
          * Decryption
          * 
